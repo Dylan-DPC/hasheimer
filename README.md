@@ -1,0 +1,2 @@
+# hasheimer
+A hashmap wrapper
